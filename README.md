@@ -1,5 +1,11 @@
 # 💫 About Me:
-Currently working on a review app & much more<br>Working at Gymshark with some brilliant people<br>I enjoy anything computer related & Cars<br>I love photography<br><br>I am half hungarian half romanian and I am living in the UK
+🚀 Crafting a property review app and tinkering with a few side projects<br>
+💼 Building cool things with brilliant people at Gymshark<br>
+💻 Fully powered by tech<br>
+🚗 Forever fascinated by cars<br>
+📸 Capturing life through a lens<br><br>
+
+🌍 Half Hungarian 🇭🇺 Half Romanian 🇷🇴 Currently adventuring in the UK 🇬🇧
 
 
 ## 🌐 Socials:
