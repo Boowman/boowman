@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Crafting a property review app and tinkering with a few side projects<br>
+🚀 Crafting a review app and tinkering with a few side projects<br>
 💼 Building cool things with brilliant people at Gymshark<br>
 💻 Fully powered by tech<br>
 🚗 Forever fascinated by cars<br>
