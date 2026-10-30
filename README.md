@@ -30,3 +30,12 @@
 [![](https://visitcount.itsvg.in/api?id=Boowman&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- commits.sh:profile:start -->
+<a href="https://commits.sh/Boowman">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://commits.sh/api/badge?handle=Boowman&amp;style=card&amp;theme=light&amp;v=52w1" />
+    <img src="https://commits.sh/api/badge?handle=Boowman&amp;style=card&amp;theme=dark&amp;v=52w1" alt="Boowman's public GitHub activity on commits.sh" width="480" />
+  </picture>
+</a>
+<!-- commits.sh:profile:end -->
